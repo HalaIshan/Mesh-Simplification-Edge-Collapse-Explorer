@@ -1,0 +1,6 @@
+{
+  "name": "Mesh Simplification & Edge Collapse Explorer",
+  "description": "An interactive computer graphics educational app for visualizing 3D meshes, vertex-edge-face structures, and edge collapse simplification algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

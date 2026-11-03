@@ -2,7 +2,7 @@
 
 An interactive 3D explorer for understanding how triangle meshes are built – and what happens to them when they are simplified. Switch between detail levels and watch the vertex, edge, and face counts change live, together with the **Euler characteristic**.
 
-**[▶ Try the live demo](https://mesh-simplification-edge-collapse-explorer-567315771351.europe-west2.run.app)**
+**[▶ Try the live demo](https://mesh-simplification-edge-collapse-explorer.ai.studio)**
 
 Made for the **Computer Graphics** course at the University of Haifa (2026) and shared with the class on the course Discord. This demo was built with Google AI Studio.
 
